@@ -21,4 +21,4 @@
 ![visual_studio_code](https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png)
 
 ## Material
-![visual_studio_code](Diapositiva/Clase1.pdf)
+![Diapositiva 1](Diapositiva/Clase1.pdf)

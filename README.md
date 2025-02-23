@@ -17,6 +17,5 @@
 - **Css
 
 ## Como herramienta principal se usara
-- **Visual Studio Code**
-------------------------------------------------------------
-![Un gato](https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png)
+
+![visual_studio_code](https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png)

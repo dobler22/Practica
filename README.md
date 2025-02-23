@@ -12,11 +12,10 @@
 
 
 ## Se empezara desde lo mas basico con tecnologías
-------------------------------------------------
 - **Javascript
 - **Html
 - **Css
 
 ## Como herramienta principal se usara
 - **Visual Studio Code**
-  ![alt]([https://](https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png))
+![Un gato](https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png)
